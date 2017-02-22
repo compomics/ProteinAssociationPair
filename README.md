@@ -36,7 +36,7 @@ Protein-Association project is supported by:
 
 | Compomics | VIB | Ghent University|
 |:--:|:--:|:--:|
-| [![compomics](http://genesis.ugent.be/uvpublicdata/image/compomics.png)](http://www.compomics.com) | [![vib](http://genesis.ugent.be/uvpublicdata/image/vib.png)](http://www.vib.be) | [![ugent](http://genesis.ugent.be/uvpublicdata/image/ugent.png)](http://www.ugent.be/en) |
+| [![compomics](http://genesis.ugent.be/uvpublicdata/image/compomics.png)](http://www.compomics.com) | [![vib](http://genesis.ugent.be/uvpublicdata/image/newVIBlogo.png)](http://www.vib.be) | [![ugent](http://genesis.ugent.be/uvpublicdata/image/ugent.png)](http://www.ugent.be/en) |
 
 [Go to top of the page](#projectassociationpair)
 
