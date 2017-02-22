@@ -13,7 +13,7 @@
 
 ## Project Description
 
-In this study, we have used publicly available mass-spectrometry data from pride to investigate the biological importance of protein co-occurrence in various experiments. To calculate the statistical weight of protein co-occurrence we have used Jaccard similarity method. Protein pairs with a similarity above 0.4 were mapped to four knowledgebases; Reactome, Ensembl, IntAct, and CORUM, to assign potential biological relevance. Moreover, using published articles and String database, we were able to determine the possible biological connection between unannotated protein pairs with no known biological correspondence. 
+In this study, we have used publicly available mass-spectrometry data from pride to investigate the biological importance of protein co-occurrence in various experiments. To calculate the statistical weight of protein co-occurrence we have used Jaccard similarity method. Protein pairs with a similarity above 0.4 were mapped to knowledgebases; [Uniprot] (http://www.uniprot.org/), [Reactome] (http://www.reactome.org), [Ensembl] (http://www.ensembl.org), [IntAct] (http://www.ebi.ac.uk/intact/), [BioGRID] (https://thebiogrid.org/), and [CORUM] (http://mips.helmholtz-muenchen.de/corum/), to assign potential biological relevance. Moreover, using published articles and String database, we were able to determine the possible biological connection between unannotated protein pairs with no known biological correspondence. 
 
 [Go to top of the page](#projectassociationpair)
 
